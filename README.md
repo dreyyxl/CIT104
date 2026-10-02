@@ -12,3 +12,5 @@ CIT104 Python practical exercises.
 python3 BMI.py
 
 This repository contains my CIT104 Python exercises.
+
+This line was added directly from GitHub.
