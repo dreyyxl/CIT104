@@ -1,3 +1,4 @@
+# Simple Interest Calculator
 principal = float(input("Enter principal: "))
 rate = float(input("Enter rate (%): "))
 time = float(input("Enter time (years): "))
