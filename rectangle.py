@@ -1,3 +1,5 @@
+
+# Rectangle Area Calculator
 length = float(input("Enter length: "))
 breadth = float(input("Enter breadth: "))
 
