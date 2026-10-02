@@ -1,7 +1,7 @@
 # CIT104 - Intro to Programming
 
 My Python practicals for National Open University
-
+CIT104 Python practical exercises.
 ## Files
 - BMI.py - calculates BMI
 - converterr.py - USD to NGN converter
@@ -10,3 +10,4 @@ My Python practicals for National Open University
 
 ## How to run
 python3 BMI.py
+
